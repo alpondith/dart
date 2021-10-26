@@ -13,7 +13,7 @@ description: >-
 * ****[**Comment**](topics/comment.md)****
 * ****[**Variable**](topics/variable.md)****
 * ****[**Data Type**](topics/data-type.md)****
-* ****[**Input**](topics/input.md)****
+* **Input**
 * ****[**If / Else**](topics/if-else.md)****
 * ****[**Switch**](topics/switch-case.md)****
 * ****[**Loop**](topics/loop.md)****
