@@ -15,6 +15,11 @@
 * [List](topics/list.md)
 * [Map](topics/map.md)
 
+## Problem Solving
+
+* [If / Else](problem-solving/if-else.md)
+* [Loop](problem-solving/loop.md)
+
 ## Reference
 
 * [Resource](reference/resource.md)
