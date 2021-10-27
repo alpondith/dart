@@ -17,6 +17,7 @@
 
 ## Problem Solving
 
+* [basic](problem-solving/basic.md)
 * [If / Else](problem-solving/if-else.md)
 * [Loop](problem-solving/loop.md)
 
