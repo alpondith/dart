@@ -28,7 +28,7 @@ void main() {
 
 ### Task 2
 
-Write a program that reads two numbers from the user. Your program should then print “first is greater” if the first number is greater, “second is greater” if the second number is greater, and “the numbers are equal” otherwise.
+Write a program that reads two numbers from the user. Your program should then print “first is greater” if the first input is larger,  “second is greater” if the second input is larger,  and “the numbers are equal” otherwise.
 
 ### **Task 3**
 
