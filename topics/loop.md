@@ -239,3 +239,44 @@ void main(){
 {% hint style="info" %}
 output will be according to the input given on console.&#x20;
 {% endhint %}
+
+### Complex Task
+
+```
+import 'dart:io';
+
+void main() {
+  int result, result1, number, number1;
+  String input, space;
+  String singleSpace = " ";
+  String doubleSpace = "  ";
+  String trippleSpace = "   ";
+
+  while (true) {
+    print("Please type a number :");
+    input = stdin.readLineSync()!;
+
+    number = int.parse(input);
+
+    print("Please type another number :");
+    input = stdin.readLineSync()!;
+
+    number1 = int.parse(input);
+
+    for (int index = 1; index <= 10; index++) {
+      if (index == 1) {
+        space = trippleSpace;
+      } else if (index == 10) {
+        space = singleSpace;
+      } else {
+        space = doubleSpace;
+      }
+
+      result = index * number;
+      result1 = index * number1;
+      print("$number x $index = $result  $space $number1 x $index = $result1");
+    }
+  }
+}
+
+```
