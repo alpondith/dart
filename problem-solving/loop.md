@@ -16,6 +16,24 @@ void main() {
 }
 ```
 
+{% hint style="success" %}
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+{% endhint %}
+
+```
+void main() {
+  String result = "";
+  for (int index = 1; index <= 4; index++) {
+    result = result + " $index";
+  }
+  print(result);
+}
+```
+
+{% hint style="success" %}
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+{% endhint %}
+
 ### Task 2
 
 Write a program that prints numbers from -1 to -20. example : -1  -2  -3  -4  ......  -19 -20
