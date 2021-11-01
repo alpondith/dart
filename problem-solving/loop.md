@@ -4,6 +4,18 @@
 
 Write a program that prints numbers from 1 to 20. Example : 1 2 3 4  ......  19 20 &#x20;
 
+```
+void main() {
+  String result = "";
+  int index = 1;
+  while (index <= 4) {
+    result = result + " $index";
+    index++;
+  }
+  print(result);
+}
+```
+
 ### Task 2
 
 Write a program that prints numbers from -1 to -20. example : -1  -2  -3  -4  ......  -19 -20
