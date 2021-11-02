@@ -77,6 +77,41 @@ void main() {
 
 Write a program that prints all even numbers from 1 to 20. Example : 0  2 4  ......  18  20
 
+```
+void main() {
+  String result = "";
+  for (int index = 0; index <= 20; index++) {
+    if (index.isEven) {
+      result = result + " $index";
+    }
+  }
+  print(result);
+}
+```
+
+```
+void main() {
+  String result = "";
+  for (int index = 0; index <= 20; index++) {
+    if (index % 2 == 0) {
+      result = result + " $index";
+    }
+  }
+  print(result);
+}
+
+```
+
+```
+void main() {
+  String result = "";
+  for (int index = 0; index <= 20; index = index + 2) {
+    result = result + " $index";
+  }
+  print(result);
+}
+```
+
 ### Task 4
 
 Write a program that prints all odd numbers from 1 to 20. Example : 1 3  5  ......  17 19
