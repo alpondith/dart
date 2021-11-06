@@ -30,6 +30,22 @@ Sample output :&#x20;
 
 \*\*\*\*\*\*
 
+### Task 3&#x20;
+
+```
+Sample input:
+4
+Sample output
+*
+**
+***
+****
+```
+
+***
+
+***
+
 ***
 
 ***
