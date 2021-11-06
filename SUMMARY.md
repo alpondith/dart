@@ -20,6 +20,7 @@
 * [basic](problem-solving/basic.md)
 * [If / Else](problem-solving/if-else.md)
 * [Loop](problem-solving/loop.md)
+* [Star Loop](problem-solving/star-loop.md)
 
 ## Reference
 
