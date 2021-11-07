@@ -1,3 +1,7 @@
+---
+description: Use monospaced font in terminal to watch output properly
+---
+
 # Star Loop
 
 ### Task 1
@@ -167,7 +171,35 @@ Sample output
 
 ### Task 15
 
-***
+### Task 16
+
+### Task 17
+
+### Task 18
+
+### Task 19
+
+### Task 20
+
+### Task 21
+
+### Task 22
+
+### Task 23
+
+### Task 24
+
+### Task 25
+
+### Task 26
+
+### Task 26
+
+### Task 28
+
+### Task 29
+
+### Task 30
 
 ***
 
