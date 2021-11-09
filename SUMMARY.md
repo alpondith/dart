@@ -14,6 +14,7 @@
 * [Loop](topics/loop.md)
 * [List](topics/list.md)
 * [Map](topics/map.md)
+* [Function](topics/function.md)
 
 ## Problem Solving
 
