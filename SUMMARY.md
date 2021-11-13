@@ -16,6 +16,10 @@
 * [Map](topics/map.md)
 * [Function](topics/function.md)
 
+## Object Oriented
+
+* [Class & Objects](object-oriented/class-and-objects.md)
+
 ## Problem Solving
 
 * [basic](problem-solving/basic.md)
