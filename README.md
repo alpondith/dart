@@ -9,20 +9,20 @@ description: >-
 
 ### Topics
 
-* ****[**Basic**](topics/basic.md)****
-* ****[**Comment**](topics/comment.md)****
-* ****[**Variable**](topics/variable.md)****
-* ****[**Data Type**](topics/data-type.md)****
+* [**Basic**](topics/basic.md)
+* [**Comment**](topics/comment.md)
+* [**Variable**](topics/variable.md)
+* [**Data Type**](topics/data-type.md)
 * **Input**
-* ****[**If / Else**](topics/if-else.md)****
-* ****[**Switch**](topics/switch-case.md)****
-* ****[**Loop**](topics/loop.md)****
-* ****[**List**](topics/list.md)****
-* ****[**Map**](topics/map.md)****
+* [**If / Else**](topics/if-else.md)
+* [**Switch**](topics/switch-case.md)
+* [**Loop**](topics/loop.md)
+* [**List**](topics/list.md)
+* [**Map**](topics/map.md)
 * **Set**
 * **Queue**
 * **function**
 * **class**
+* **mixin**
 
 ### Examples
-
